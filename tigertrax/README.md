@@ -69,5 +69,3 @@ export default function blablabla(important: string): string {
 
 ---
 
-## any questions? hit me up. i will for real teach you anything
-### — Noah
